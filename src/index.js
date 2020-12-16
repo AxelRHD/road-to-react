@@ -5,4 +5,5 @@ import "./styles.css";
 
 import App from "./App";
 
+// Render the React App to DOM
 ReactDOM.render(<App />, document.getElementById("app"));
